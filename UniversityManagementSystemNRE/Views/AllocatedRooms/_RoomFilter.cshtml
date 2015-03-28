@@ -1,0 +1,46 @@
+﻿@model IEnumerable<UniversityManagementSystemNRE.Models.Course>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>
+            Course Code
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Schedule Information
+        </th>
+
+    </tr>
+        </thead>
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </td>
+                <td>
+                    @foreach (var anAllocatedRoom in item.AllocatedRoomList)
+                    {
+                        <b>RoomNo:</b>
+                        @Html.DisplayFor(modelItem => anAllocatedRoom.Room.RoomNo)
+                        <i>.</i>
+                        @Html.DisplayFor(modelItem => anAllocatedRoom.WeekDay.DayName)
+                        
+                    
+                    }
+                </td>
+
+            </tr>
+        </tbody>
+        
+    }
+
+</table>

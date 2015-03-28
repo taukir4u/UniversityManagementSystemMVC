@@ -1,0 +1,39 @@
+﻿@model List<UniversityManagementSystemNRE.Models.AssignedCourse>
+
+@{
+    ViewBag.Title = "List of Assigned Courses";
+}
+
+<h2>List of Assigned Courses</h2>
+
+<p>
+    @Html.ActionLink("Assaign Course", "Create")
+</p>
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>
+            Course
+        </th>
+        <th>
+            Teacher
+        </th>
+    </tr>
+        </thead>
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Teacher.TeacherName)
+                </td>
+            </tr>
+        </tbody>
+        
+    }
+
+</table>

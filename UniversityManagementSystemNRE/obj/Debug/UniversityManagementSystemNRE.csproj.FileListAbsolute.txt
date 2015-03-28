@@ -1,0 +1,232 @@
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll.config
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.pdb
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Web.Infrastructure.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Owin.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\WebGrease.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.pdb
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.dll
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.pdb
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.CreatDB.resources
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.csproj.GenerateResource.Cache
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.csprojResolveAssemblyReference.cache
+B:\BASIS\ProjectPracticeMVC\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.V2.resources
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll.config
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.pdb
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Web.Infrastructure.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Owin.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\WebGrease.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.pdb
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.CreatDB.resources
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.V2.resources
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.csproj.GenerateResource.Cache
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.dll
+D:\sabbir final bitm project - CopyV2\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.pdb
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll.config
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.pdb
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Owin.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\WebGrease.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.pdb
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.csprojResolveAssemblyReference.cache
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.CreatDB.resources
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.V2.resources
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.csproj.GenerateResource.Cache
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.dll
+C:\Users\sabbir ahmed emon\Desktop\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.pdb
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.CreatDB.resources
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.V2.resources
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.csproj.GenerateResource.Cache
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll.config
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\UniversityManagementSystemNRE.pdb
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Web.Infrastructure.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Owin.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\WebGrease.dll
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Helpers.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Mvc.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Optimization.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.Razor.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Deployment.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\System.Web.WebPages.Razor.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Newtonsoft.Json.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Antlr3.Runtime.pdb
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\EntityFramework.SqlServer.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Core.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.Owin.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Host.SystemWeb.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Facebook.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Cookies.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.OAuth.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Google.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.Twitter.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.pdb
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.Migrations.v3.resources
+B:\tonigtMODproject\new p\minhaj\finalproject\UniversityManagementSystemNRE\UniversityManagementSystemNRE\obj\Debug\UniversityManagementSystemNRE.csprojResolveAssemblyReference.cache

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<UniversityManagementSystemNRE.Models.Enrollment>
+
+@if (Model != null)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    Course Code
+                </th>
+                <th>
+                    Course Name
+                </th>
+                <th>
+                    Grade
+                </th>
+
+            </tr>
+        </thead>
+
+
+        @foreach (var item in Model)
+        {
+            <tbody>
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Course.CourseCode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Course.CourseName)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Grade.GradeLetter)
+                    </td>
+
+                </tr>
+            </tbody>
+            
+        }
+
+    </table>
+}
+
+<div><h1>@ViewBag.NotEnrolled</h1></div>

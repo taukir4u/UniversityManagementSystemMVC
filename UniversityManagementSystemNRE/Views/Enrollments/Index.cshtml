@@ -1,0 +1,54 @@
+﻿@model List<UniversityManagementSystemNRE.Models.Enrollment>
+
+@{
+    ViewBag.Title = "List of Enrolled Students";
+}
+
+<h2>List of Enrolled Students</h2>
+
+<p>
+    @Html.ActionLink("Enroll Student", "Create")
+
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Student
+            </th>
+            <th>
+                Course
+            </th>
+            <th>
+                EnrollmentDate
+            </th>
+            <th>
+                Grade
+            </th>
+        </tr>
+    </thead>
+
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student.RegNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnrollmentDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Grade.GradeLetter)
+                </td>
+            </tr>
+        </tbody>
+        
+    }
+
+</table>

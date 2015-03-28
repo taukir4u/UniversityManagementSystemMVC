@@ -1,0 +1,39 @@
+﻿@model List<UniversityManagementSystemNRE.Models.Department>
+
+@{
+    ViewBag.Title = "List of All Departments";
+}
+
+<h2>List of All Departments</h2>
+
+<p>
+    @Html.ActionLink("Enter New Department", "Create")
+</p>
+<table class="table table-bordered">
+    <thead>
+
+        <tr>
+            <th>
+                DeptCode
+            </th>
+            <th>
+                DeptName
+            </th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+{
+    <tbody>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeptCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeptName)
+            </td>
+        </tr>
+    </tbody>
+}
+
+</table>

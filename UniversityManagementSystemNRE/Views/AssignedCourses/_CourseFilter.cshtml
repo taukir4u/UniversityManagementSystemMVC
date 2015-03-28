@@ -1,0 +1,40 @@
+﻿@model IEnumerable<UniversityManagementSystemNRE.Models.Course>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>
+            Course Code
+        </th>
+        <th>
+            Name/Title
+        </th>
+        <th>
+            Semester
+        </th>
+        
+
+    </tr>
+        </thead>
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Semester.SemesterName)
+                </td>
+                
+
+            </tr>
+        </tbody>
+        
+    }
+
+</table>

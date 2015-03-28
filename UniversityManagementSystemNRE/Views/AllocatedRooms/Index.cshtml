@@ -1,0 +1,48 @@
+﻿@model List<UniversityManagementSystemNRE.Models.AllocatedRoom>
+
+@{
+    ViewBag.Title = "List of Allocated Class Rooms";
+}
+
+<h2>List of Allocated Class Rooms</h2>
+
+<p>
+    @Html.ActionLink("Allocate Room", "Create")
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Course
+            </th>
+            <th>
+                Room
+            </th>
+            <th>
+                WeekDay
+            </th>
+
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Room.RoomNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WeekDay.DayName)
+                </td>
+
+            </tr>
+        </tbody>
+    }
+    <div><h1>@ViewBag.Message2</h1></div>
+
+</table>
+
